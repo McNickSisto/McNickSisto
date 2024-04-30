@@ -7,7 +7,9 @@
 
 <div align="center">
 
-  📍 🇨🇭 Passionate programmer from **Geneva, Switzerland** 🇨🇭
+  📍 🇨🇭 Passionate **data & software engineer** from **Geneva, Switzerland** 🇨🇭
+
+  📕 McGill University & Nova School of Business & Economics **alumni**
 
  ⚡ Currently working at **International Trade Center (United Nations)**.
 
