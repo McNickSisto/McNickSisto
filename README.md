@@ -1,12 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=McNickSisto.McNickSisto" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=2B0784&background=66FF0900&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!+%F0%9F%91%8B;I'm+Nicholas+Sistovaris" />
+</h1>
 
-### Hi there 👋
 
-I am a software engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
+<div align="center">
 
+  📍 🇨🇭 Passionate programmer from **Geneva, Switzerland** 🇨🇭
 
-- 🔭 I’m currently working on ReactJS, Nodejs devOps, DataBase Modeling and flutter.
-- 🍔 Founder TasteBuds.
-- ⚡ Currently Working at ThoughtWorks.
+ ⚡ Currently working at **International Trade Center (United Nations)**.
 
+ 🔭 I mainly work with **Python, Polars, MongoDB and MSSQL**.
+ 
+  🌱 Learning **Azure and C** on the side.
+  
+ </div>
+
+ 
