@@ -7,25 +7,27 @@
 
 <div align="center">
 
-  📍 🇨🇭 Passionate **data & software engineer** from **Geneva, Switzerland** 🇨🇭
+  📍 Passionate **data & software engineer** from **Geneva, Switzerland** 🇨🇭
   
-  📕 B.A. in International Development from **McGill University** 
+  📕 B.A. in International Development & Economics from <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/a3e8c49c-5b17-49cd-a468-ed808ad69920" alt="mcgill_logo" width="60" height="15">
   
-  <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/a3e8c49c-5b17-49cd-a468-ed808ad69920" alt="mcgill_logo" width="100" height="30">
-  
-  📚 M.Sc in Economics from **Nova School of Business & Economics**
-  
-  <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/27131b92-06c2-4489-9e62-c2da9db82a4d" alt="nova_logo" width="100" height="40">
+  📚 M.Sc in Economics from <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/27131b92-06c2-4489-9e62-c2da9db82a4d" alt="nova_logo" width="60" height="25">
 
- ⚡ Currently working at **International Trade Center** (United Nations) 
- 
- <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/274fc9a6-d13a-430e-8735-c1c6d4bb1411" alt="itc_logo" width="100" height="40">
+ ⚡ Currently working at the **International Trade Center** <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/9aa5e7d8-3ba4-45ed-a1e3-ad356df524c5" alt="itc_abrv_logo" width="20" height="20">,     a United Nations entity<img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/dda3be61-9f1f-41e8-8a35-64ffacf6bbf5" alt="un_logo" width="30" height="20">
 
- 🔭 I mainly work with **Python, Polars, MongoDB and MSSQL**.
+ 🔭 I use **Python, Polars, MongoDB and MSSQL** on a daily basis.
  
-  🌱 Learning **Azure and C** on the side.
+  🌱 Going through **CS50** and **Azure DP-100** on the side.
  
  </div>
   
-
+ <hr/>
+ 
+<h2 align="center">⚒️ Tech Stack </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,ubuntu,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=azure,sqlite,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=py,c,matlab" />
+</div>
  
