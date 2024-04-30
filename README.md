@@ -30,7 +30,9 @@
     <img src="https://skillicons.dev/icons?i=azure,sqlite,mongodb,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=py,c,matlab" />
 </div>
- 
+
+  <hr/>
+
 <div align="center">
   <h2>🐍 My Contributions</h2>
   <br>
