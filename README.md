@@ -9,9 +9,12 @@
 
   📍 🇨🇭 Passionate **data & software engineer** from **Geneva, Switzerland** 🇨🇭
 
-  📕 McGill University & Nova School of Business & Economics **alumni**
+  📕 B.A. in International Development from **McGill University**
 
-  <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/a3e8c49c-5b17-49cd-a468-ed808ad69920" alt="mcgill_logo" width="100" height="30">
+  <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/a3e8c49c-5b17-49cd-a468-ed808ad69920" alt="mcgill_logo" width="110" height="30">
+  
+  📚 M.Sc in Economics from **Nova School of Business & Economics**
+
   <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/9c4dc9df-4714-49dd-96b3-45c68a3bb12d" alt="nova_logo" width="100" height="40">
 
  ⚡ Currently working at **International Trade Center (United Nations)**.
