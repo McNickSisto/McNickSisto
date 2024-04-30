@@ -11,7 +11,13 @@
 
   📕 McGill University & Nova School of Business & Economics **alumni**
 
+  <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/a3e8c49c-5b17-49cd-a468-ed808ad69920" alt="mcgill_logo" width="100" height="30">
+  <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/9c4dc9df-4714-49dd-96b3-45c68a3bb12d" alt="nova_logo" width="100" height="40">
+
  ⚡ Currently working at **International Trade Center (United Nations)**.
+
+ <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/70139bc5-f42f-4a53-87cb-dda9f700a8d2" alt="itc_logo" width="100" height="40">
+
 
  🔭 I mainly work with **Python, Polars, MongoDB and MSSQL**.
  
