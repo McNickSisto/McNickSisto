@@ -6,6 +6,4 @@ I am a computer science engineer and have experience in working in many startups
 - 🔭 I’m currently working on ReactJS, Nodejs devOps, DataBase Modeling and flutter.
 - 🍔 Founder TasteBuds.
 - ⚡ Currently Working at ThoughtWorks.
-- 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
 
-<hr />
