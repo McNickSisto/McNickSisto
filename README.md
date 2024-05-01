@@ -13,7 +13,7 @@
   
   M.Sc. in Economics from <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/27131b92-06c2-4489-9e62-c2da9db82a4d" alt="nova_logo" width="60" height="25">
   
-  Currently working at the **International Trade Center** <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/9aa5e7d8-3ba4-45ed-a1e3-ad356df524c5" alt="itc_abrv_logo" width="20" height="20">,     a United Nations entity<img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/dda3be61-9f1f-41e8-8a35-64ffacf6bbf5" alt="un_logo" width="30" height="20">
+  Currently working at the **International Trade Center** <img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/9aa5e7d8-3ba4-45ed-a1e3-ad356df524c5" alt="itc_abrv_logo" width="20" height="20">,     an entity of the United Nations<img src="https://github.com/McNickSisto/McNickSisto/assets/74677469/dda3be61-9f1f-41e8-8a35-64ffacf6bbf5" alt="un_logo" width="30" height="20">
 
  I use **Python, Polars, Git, MongoDB and MSSQL** on a daily basis
  
